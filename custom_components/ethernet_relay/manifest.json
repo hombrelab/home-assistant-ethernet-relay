@@ -1,0 +1,12 @@
+{
+  "domain": "ethernet_relay",
+  "name": "Ethernet Relay",
+  "config_flow": true,
+  "documentation": "https://github.com/hombrelab/home-assistant-ethernet-relay/",
+  "dependencies": [],
+  "after_dependencies": [],
+  "codeowners": [
+    "@hombrelab"
+  ],
+  "requirements": []
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Ethernet Relay",
+  "render_readme": true,
+  "domains": "switch",
+  "home-assistant": "0.109.5",
+  "iot_class": "unknown"
+}

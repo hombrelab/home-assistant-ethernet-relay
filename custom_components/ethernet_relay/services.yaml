@@ -1,0 +1,9 @@
+set_pulse:
+  description: Set the pulse for the relay (0 = indefinite, higher is on/off).
+  fields:
+    entity_id:
+      description: Name(s) of entities that will have a timer set.
+      example: "switch.living_room_relay_1"
+    pulse:
+      description: Number of milliseconds.
+      example: 0

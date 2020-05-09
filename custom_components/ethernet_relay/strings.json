@@ -1,0 +1,26 @@
+{
+  "title": "Ethernet Relay",
+  "config": {
+    "step": {
+      "user": {
+        "title": "Board",
+        "data": {
+          "name": "Name",
+          "host": "Host",
+          "port": "Port",
+          "icon": "Icon",
+          "relay": "Relay #",
+          "pulse": "Pulse"
+        }
+      }
+    },
+    "error": {
+      "name_error": "This name is already in use!",
+      "connection_error": "Failed to connect to the board.",
+      "variables_error": "One or more variables have not been set up (correct)."
+    },
+    "abort": {
+      "already_configured": "[%key:common::config_flow::abort::already_configured_device%]"
+    }
+  }
+}
