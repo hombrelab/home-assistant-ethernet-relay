@@ -7,7 +7,7 @@ UUID = "7d0450fb-f738-4884-afd1-39f8ba7d74cb"
 
 SW_MANUFACTURER = "Hombrelab"
 SW_NAME = "Ethernet Relay"
-SW_VERSION = "1.0.1"
+SW_VERSION = "1.0.2"
 
 # labels
 NAME = "name"

@@ -1,7 +1,7 @@
-# Ethernet Relay Switch
+# Ethernet Relay
 [![hacs_badge](https://img.shields.io/badge/HACS-Custom-orange.svg)](https://github.com/custom-components/hacs) ![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/hombrelab/home-assistant-ethernet-relay) ![GitHub commit activity](https://img.shields.io/github/last-commit/hombrelab/home-assistant-ethernet-relay)  
 
-The [ethernet-relay](https://github.com/hombrelab/home-assistant-ethernet-relay) custom component for [home-assistant](https://www.home-assistant.io) is created to switch the [ds378 Devantech Programmable Ethernet Module](https://www.robot-electronics.co.uk/ds378.html) with 8 relays.
+The [Ethernet Relay](https://github.com/hombrelab/home-assistant-ethernet-relay) custom component for [home-assistant](https://www.home-assistant.io) is created to switch the [ds378 Devantech Programmable Ethernet Module](https://www.robot-electronics.co.uk/ds378.html) with 8 relays.
 
 I needed a way to switch my [Occhio luminaires](https://www.occhio.de), controlled using bluetooth technology from [Casambi](https://www.casambi.com).  
 I could not find an integration or 'out of the box' technology for that so I combined the ds378 with the [SC-TI-CAS](https://www.casambi.nl/a-52395018/schakelaars/sc-ti-cas/#description)
