@@ -1,6 +1,6 @@
-"""
-Config flow for the Ethernet Relay component.
-"""
+#  Copyright (c) 2020 Hombrelab <me@hombrelab.com>
+
+# Config flow for the Ethernet Relay component.
 
 import logging
 

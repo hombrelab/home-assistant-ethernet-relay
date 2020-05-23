@@ -1,7 +1,9 @@
-"""
-Switch for the Ethernet Relay component.
-"""
+#  Copyright (c) 2020 Hombrelab <me@hombrelab.com>
+
+# Switch for the Ethernet Relay component.
+
 from homeassistant.config_entries import ConfigEntry
+
 from homeassistant.helpers import config_validation as cv, entity_platform, service
 from homeassistant.helpers.typing import HomeAssistantType
 from homeassistant.components.switch import SwitchEntity

@@ -1,13 +1,13 @@
-"""
-Constants for the Ethernet Relay component
-"""
+#  Copyright (c) 2020 Hombrelab <me@hombrelab.com>
+
+# Constants for the Ethernet Relay component
 
 DOMAIN = "ethernet_relay"
 UUID = "7d0450fb-f738-4884-afd1-39f8ba7d74cb"
 
 SW_MANUFACTURER = "Hombrelab"
 SW_NAME = "Ethernet Relay"
-SW_VERSION = "1.0.2"
+SW_VERSION = "1.0.3"
 
 # labels
 NAME = "name"

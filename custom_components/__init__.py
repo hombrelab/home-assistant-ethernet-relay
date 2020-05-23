@@ -1,6 +1,6 @@
-"""
-The Ethernet Relay component for Home Assistant.
-"""
+#  Copyright (c) 2020 Hombrelab <me@hombrelab.com>
+
+# The Ethernet Relay component for Home Assistant.
 
 import asyncio
 import logging
